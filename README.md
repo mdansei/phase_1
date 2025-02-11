@@ -26,4 +26,4 @@ This project is a FastAPI application that retrieves the latest stock market pri
 ### Trade-offs Made
 
 1. **Error Handling**: Basic error handling is implemented, but there is room for improvement.
-2. **Async Support**: The application is not fully async. It is a simple FastAPI application that uses a synchronous API client to retrieve data from the Twelve Data API.
+2. **Async Support**: The application is not async. It is a simple FastAPI application that uses a synchronous API client to retrieve data from the Twelve Data API.
